@@ -1,7 +1,7 @@
 # The Accessibility of Streaming Sites
 
 ## Digital Humanities 110 - Michelle Tran Bui
-Thinking back to what websites and apps I use the most, Netflix and Crunchyroll came to the top of that list. I frequently use these two streaming platforms to relax in my free time and search for new shows to watch--which are typically animes. With Netflix being one of the most, if not the most popular streaming platform, it's design is quite seamless and easy to navigate. On both streaming platforms, my core task is to search for an anime and observe the usability issues between the top American streaming platform Netflix, and the top anime streaming platform Crunchyroll. 
+Thinking back to what websites and apps I use the most, Netflix and Crunchyroll came to the top of that list. I frequently use these two streaming platforms to relax in my free time and search for new shows to watch--which are typically animes. With Netflix being one of the most, if not the most popular streaming platform, it's design is quite seamless and easy to navigate. On both streaming platforms, my core task is to browse through the homepage for an anime to watch and observe the usability issues between the top American streaming platform Netflix, and the top anime streaming platform Crunchyroll. 
 
 ### Nielson's 10 Heuristics
 Heuristic | Definition
@@ -32,8 +32,8 @@ http://netflix.com
 
 Heuristic | Evaluation | Improvement
 --------- | ---------- | -----------
-**Visibility of system status** | 
-**Match between system + real world** |
+**Visibility of system status** | **Good**: Show is enlarged when you hover your selection over it. Buttons also change colors when hovering over it to show where you are, and cursor is visible. Displays shows that you're currently watching and the progress of the show. | **None**: There are good indicators within the website that give you immediate feedback and don't subject any consequiences to users. 
+**Match between system + real world** | 
 **User control and freedom** |
 **Conistency and standards** |
 **Recognition rather than recall** |
