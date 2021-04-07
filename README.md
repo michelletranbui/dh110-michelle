@@ -1,7 +1,7 @@
 # The Accessibility of Anime Streaming Sites
 
 ## Digital Humanities 110 - Michelle Tran Bui
-Thinking back to what websites and apps I use the most, streaming websites came to the top of the list. More often than not, I watch animes on my free time. The two websites that I frequent the most when looking for something new is KissAnime and 9Anime. Both websites have different shows that in their catalogue, as well as varying levels of video quality and uplooad speeds. On both streaming platforms, my core task is to browse through the homepage for an anime to watch and observe the usability issues between the two anime streaming websites. 
+Thinking back to what websites and apps I use the most, streaming websites came to the top of the list. More often than not, I watch animes on my free time. The two websites that I frequent the most when looking for something new is KissAnime and 9Anime. Both websites have different shows that in their catalogue, as well as varying levels of video quality and uplooad speeds. On both streaming platforms, my core task is to browse through the homepage for an anime to watch and observe the usability issues between the two anime streaming websites. Considering the growing population of people watching anime online, analyzing the usability of these websites helps me understand the user experience and efficiency of the sites. 
 
 ### Nielson's 10 Heuristics
 Heuristic | Definition
