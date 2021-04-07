@@ -1,7 +1,7 @@
 # The Accessibility of Streaming Sites
 
 ## Digital Humanities 110 - Michelle Tran Bui
-Thinking back to what websites and apps I use the most, streaming websites came to the top of the list. More often than not, I watch animes on my free time. The two websites that I frequent the most when looking for something new is KissAnime and Crunchyroll. Both websites have different shows that in their catalogue, as well as varying levels of video quality and uplooad speeds. On both streaming platforms, my core task is to browse through the homepage for an anime to watch and observe the usability issues between the two anime streaming websites. 
+Thinking back to what websites and apps I use the most, streaming websites came to the top of the list. More often than not, I watch animes on my free time. The two websites that I frequent the most when looking for something new is KissAnime and 9Anime. Both websites have different shows that in their catalogue, as well as varying levels of video quality and uplooad speeds. On both streaming platforms, my core task is to browse through the homepage for an anime to watch and observe the usability issues between the two anime streaming websites. 
 
 ### Nielson's 10 Heuristics
 Heuristic | Definition
@@ -27,7 +27,7 @@ http://kiss-anime.ws
 ![KissAnime homepage](kissanime.png)
 
 #### Evaluation
-> Overall: Although KissAnime has a great variety of animes to choose from, there are still many design issues before it becomes as sleek, modern, and useful as popular streaming platforms like Netflix. To better improve the user experience, KissAnime needs to become more personalized for the user and have features that will streamline accessing the website. There are many navigation, efficiency, and aesthetic issues on the website that build into the usability problems. 
+> *Overall: Although KissAnime has a great variety of animes to choose from, there are still many design issues before it becomes as sleek, modern, and useful as popular streaming platforms like Netflix. To better improve the user experience, KissAnime needs to become more personalized for the user and have features that will streamline accessing the website. There are many navigation, efficiency, and aesthetic issues on the website that build into the usability problems.*
 
 
 Heuristic | Evaluation | Improvement
@@ -44,13 +44,13 @@ Heuristic | Evaluation | Improvement
 **Help and documentation** | **Bad**: There is no FAQ or page that has documentation of common issues and problems with the website. The only resource is to report issues through Facebook messages, which is an unneccesary step for users to find solutions or explanations on their issues. | **Improvements**: Have a dedicated FAQ page that has documentation of most commonly asked questions or problems to smoothen out the process for users. 
 
 
-### Crunchyroll 
->
+### 9Anime 
+> 
 
-http://crunchyroll.com
+http://9anime.to
 
 
-![Crunchyroll homepage](crunchyroll.png)
+![9Anime homepage](9anime.png)
 
 #### Evaluation
 > Overall:
