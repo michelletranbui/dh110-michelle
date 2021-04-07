@@ -12,3 +12,6 @@ http://netflix.com
 ![netflix homepage](netflix.png)
 
 #### Overall Evaluation
+
+Heuristic | Evaluation | Improvement
+--------- | ---------- | -----------
