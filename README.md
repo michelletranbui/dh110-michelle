@@ -27,7 +27,7 @@ http://kiss-anime.ws
 ![KissAnime homepage](kissanime.png)
 
 #### Evaluation
-> Overall: 
+> Overall: Although KissAnime has a great variety of animes to choose from, there are still many design issues before it becomes as sleek, modern, and useful as popular streaming platforms like Netflix. To better improve the user experience, KissAnime needs to become more personalized for the user and have features that will streamline accessing the website. There are many navigation, efficiency, and aesthetic issues on the website that build into the usability problems. 
 
 
 Heuristic | Evaluation | Improvement
