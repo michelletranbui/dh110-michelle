@@ -19,9 +19,9 @@ Heuristic | Definition
 
 
 ### KissAnime
-> 
+> KissAnime is a mildly popular anime streaming website that has frequent updates of new episodes and new shows. Many of the most popular ongoing animes are consistently uploaded, but sometimes the episodes are not of the highest video and/or audio quality. Dubbed animes, which are when the voices are 'dubbed' over in English rather than being spoken in the traditional Japanese language are also available to watch on KissAnime. 
 
-
+http://kiss-anime.ws
 
 
 ![KissAnime homepage](kissanime.png)
@@ -32,10 +32,10 @@ Heuristic | Definition
 
 Heuristic | Evaluation | Improvement
 --------- | ---------- | -----------
-**Visibility of system status** | **Good**: Show is enlarged when you hover your selection over it. Buttons also change colors when hovering over it to show where you are, and cursor is visible. Displays shows that you're currently watching and the progress of the show. | **None**: There are good indicators within the website that give you immediate feedback and don't subject any consequiences to users. 
-**Match between system + real world** | **Good**: 
-**User control and freedom** |
-**Conistency and standards** |
+**Visibility of system status** | **Good**: Images of shows and the show title darken when hovering over them.  Various buttons and actions throughout the homepage also darken when hovering. **Bad**: Shows that I'm currently watching are not displayed on the homepage. Instead, popular and new shows are displayed rather than shows that are relevant to me. | **Improvement**: Shows the user are currently watching could be displayed on the homepage for ease of access, as well as the progress of that show. 
+**Match between system + real world** | **Good**: There are arrows to scroll through more shows, as well as a search bar to specifically find something. **Bad**: There is an "Advanced Search" button, which is vague as to what that entails. Animes are displayed with their Japanese title despite being an American streaming platform. | **Improvement**: Modify the "Advanced Search" option to be more concise on what it does and change the titles of animes to their American name rather than their Japanese name. 
+**User control and freedom** | **Bad**: There is no obvious "Go Back" button besides the "Back" on your Internet engine. After clicking on a new show, the only user freedom is selecting the "Home" button. Clicking on a specific episode also has no navigation to the show's general page, and you are only given the choice to select through more episodes. | **Improvement**: There should be an option to go back to the pages you were originally browsing through, even after clicking on a certain show. Another button to go back to the anime's general page would also be useful. 
+**Conistency and standards** | **Good**: There is a consistent structure to the format of shows and opening episodes. There is also consistency between presenting "Ongoing" animes versus "Completed" animes, as well as what episode the anime is currently on. | **No Improvement**: The standardization throughout the homepage and navigating animes is done conventionally well. There is nothing to modify in regards to increasing consistency.
 **Recognition rather than recall** |
 **Error prevention** |
 **Flexibility and efficiency of use** |
