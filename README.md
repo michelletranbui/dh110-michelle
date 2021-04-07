@@ -11,7 +11,44 @@ http://netflix.com
 
 ![netflix homepage](netflix.png)
 
-#### Overall Evaluation
+#### Evaluation
+> Overall: 
+
 
 Heuristic | Evaluation | Improvement
 --------- | ---------- | -----------
+**Visibility of system status**: The user is given feedback about the system's current state. | 
+**Match between system + real world**: The design follows real life conventions that are natural to follow and have concepts familiar to the user. |
+**User control and freedom**: The user can freely undo, redo, and exit the current interaction at any given time. |
+**Conistency and standards**: The designs uses the same consistent words and actions to establish a pattern of familiarity. |
+**Recognition rather than recall**: The interface is presented so that users can easily recognize what to do without excessive memorization. |
+**Error prevention**: Prevent problematic scenarios by warning users as well as having helpful restraints. |
+**Flexibility and efficiency of use**: The product is flexible to customize and personalize, as well as acceleration for advanced users. |
+**Aesthetic and minimalist design**: The design is sleek and includes relevant essentials that embody the purpose of the product. |
+**Help users with errors**: When users stumble upon errors, they are easy to comprehend and are given solutions. | 
+**Help and documentation**: Further documentation and elaboration is given to users if needed. |
+
+
+### Crunchyroll 
+>
+
+http://crunchyroll.com
+
+
+![crunchyroll homepage](crunchyroll.png)
+
+#### Evaluation
+> Overall:
+
+Heuristic | Evaluation | Improvement
+--------- | ---------- | -----------
+**Visibility of system status**: The user is given feedback about the system's current state | 
+**Match between system + real world**: The design follows real life conventions that are natural to follow and have concepts familiar to the user. |
+**User control and freedom**: The user can freely undo, redo, and exit the current interaction at any given time. |
+**Conistency and standards**: The designs uses the same consistent words and actions to establish a pattern of familiarity. |
+**Recognition rather than recall**: The interface is presented so that users can easily recognize what to do without excessive memorization. |
+**Error prevention**: Prevent problematic scenarios by warning users as well as having helpful restraints. |
+**Flexibility and efficiency of use**: The product is flexible to customize and personalize, as well as acceleration for advanced users. |
+**Aesthetic and minimalist design**: The design is sleek and includes relevant essentials that embody the purpose of the product. |
+**Help users with errors**: When users stumble upon errors, they are easy to comprehend and are given solutions. | 
+**Help and documentation**: Further documentation and elaboration is given to users if needed. |
