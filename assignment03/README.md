@@ -34,9 +34,13 @@ The recording of the interview can be found [here](https://youtu.be/aUrqrs9auuA)
 The transcription of the interview can be found [here](). 
 #### Interesting Interview Insights
 *User's basic needs*
+
 To this user, the unemployment benefits were somewhat a mix of two of Maslow's heirarchy of basic needs: physiological needs and self-actualisation. The benefits were used for the user's funding of higher education, which would be part of self-actualisation. At times, they would also purchase personal wants with the benefit money. Occasionally, the benefit money was used for physiological needs like purchasing food and water. 
 "I wouldn't say it was for either, it's mostly to pay off like college. I mean, I had, like food and stuff, it was just, I did use some of the money to like to satisfy like, personal needs, but um, for the most part, it's just all just gonna go to college."
+
 *Increase in universal accessibility*
+
 An ideal governmental assistance website includes accessibility for everyone--this means its easy to use as well as easy to access. 
 "It's accessible for like, all types of people, whether they're, they have internet or like other types of resources, and then making it easy to understand or like having a video that helps you navigate it so that everyone can do it."
+
 ### Reflection
