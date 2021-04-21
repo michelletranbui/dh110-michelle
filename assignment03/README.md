@@ -3,7 +3,7 @@
 
 ### Step 1: The Main Design Challenge 
 #### What is the main activity your project would support the users in doing? 
-The project would need to support the users in applying for unemployment benefits that are funded by hte government. Users who do not have a job or had their hours reduced would need to be able to access the website to submit necessary information in order to apply for unemployment benefits, as well as keep track of their claim, claim  process, claim history, and other relevant information. This would hopefully serve the community of people who have been impacted by the pandemic and have lost work hours/their job--prior to the pandemic, it would serve the community of people who are struggling with job security and making enough money to survive. 
+The project would need to support the users in applying for unemployment benefits that are funded by the government. Users who do not have a job or had their hours reduced would need to be able to access the website to submit necessary information in order to apply for unemployment benefits, as well as keep track of their claim, claim  process, claim history, and other relevant information. This would hopefully serve the community of people who have been impacted by the pandemic and have lost work hours/their job--prior to the pandemic, it would serve the community of people who are struggling with job security and making enough money to survive. 
 #### What is the basic need involved for that activity? 
 The basic need involved in this activity fulfills the user's  physiological needs as the user is applying for monetary support. If the user were to use the website and indeed receive unemployment benefits, the money the user would receive would be most likely allocated to their physiological needs of food, water, warmth, and rest. It is possible that the unemployment benefits would be allocated to self-actualisation if the money was used for personal needs and wants. 
 #### What is/are the traditional/current solution(s) to satisfy the needs? 
@@ -30,7 +30,13 @@ I used Zoom to record the meeting.
 The script for the interview is [here](https://docs.google.com/document/d/1tHei9HyTbo2TmSdWFtcXl06ZZvDZsFnTKyL7L_QAsj4/edit?usp=sharing), with an introduction, goals, and contextual questions.
 
 ### Step 5: Representative Data 
-The recording of the interview can be found [here](). 
+The recording of the interview can be found [here](https://youtu.be/aUrqrs9auuA). 
 The transcription of the interview can be found [here](). 
-
+#### Interesting Interview Insights
+*User's basic needs*
+To this user, the unemployment benefits were somewhat a mix of two of Maslow's heirarchy of basic needs: physiological needs and self-actualisation. The benefits were used for the user's funding of higher education, which would be part of self-actualisation. At times, they would also purchase personal wants with the benefit money. Occasionally, the benefit money was used for physiological needs like purchasing food and water. 
+"I wouldn't say it was for either, it's mostly to pay off like college. I mean, I had, like food and stuff, it was just, I did use some of the money to like to satisfy like, personal needs, but um, for the most part, it's just all just gonna go to college."
+*Increase in universal accessibility*
+An ideal governmental assistance website includes accessibility for everyone--this means its easy to use as well as easy to access. 
+"It's accessible for like, all types of people, whether they're, they have internet or like other types of resources, and then making it easy to understand or like having a video that helps you navigate it so that everyone can do it."
 ### Reflection
