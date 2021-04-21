@@ -27,7 +27,7 @@ Both participatory observation and interview were conducted over Zoom, where my 
 I used Zoom to record the meeting.
 
 ### Step 4: Interview/Observation Guide
-The script for the interview is [here](), with an introduction, goals, and contextual questions.
+The script for the interview is [here](https://docs.google.com/document/d/1tHei9HyTbo2TmSdWFtcXl06ZZvDZsFnTKyL7L_QAsj4/edit?usp=sharing), with an introduction, goals, and contextual questions.
 
 ### Step 5: Representative Data 
 The recording of the interview can be found [here](). 
