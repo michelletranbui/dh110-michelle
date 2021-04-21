@@ -31,7 +31,7 @@ The script for the interview is [here](https://docs.google.com/document/d/1tHei9
 
 ### Step 5: Representative Data 
 The recording of the interview can be found [here](https://youtu.be/aUrqrs9auuA). 
-The transcription of the interview can be found [here](). 
+The transcription of the interview can be found [here](https://otter.ai/u/AuFkt9aaZ4KHErnWP2tstdkPA2E). 
 #### Interesting Interview Insights
 *User's basic needs*
 
@@ -50,5 +50,11 @@ An ideal governmental assistance website includes accessibility for everyone--th
 The user would have been much less likely if it weren't for his father telling him about the benefit assistance. He also was originally hesitant as he didn't think he would qualify.
 
 > "I hadn't known about it. I just didn't think that I was eligible since I had like, left my job technically from college. But um, my dad was just like, you don't lose anything by applying like, okay, yeah, that makes sense when I applied and it worked out. So I don't think I would have actually applied if it wasn't for my dad". 
+
+*Easier to apply online*
+
+Rather than applying more traditionally like over the phone or in-person, my partcipant constantly opts to apply for these types of programs online. To him, it's much easier to have all the information at hand when you're at home, and if you forget something when you go in-person, it's much more inconvenient. 
+
+> "I feel like most things are easier when it's online, just because it's like, it's just, there it's at home, you can just do it from there. You don't have to rush or anything. If you forget something, it's always there. Going in person you forget, like a social security card and you need it, then it's kind of like you're screwed. But if you're at home, you can do everything."
 
 ### Reflection
