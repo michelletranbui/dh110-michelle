@@ -36,11 +36,19 @@ The transcription of the interview can be found [here]().
 *User's basic needs*
 
 To this user, the unemployment benefits were somewhat a mix of two of Maslow's heirarchy of basic needs: physiological needs and self-actualisation. The benefits were used for the user's funding of higher education, which would be part of self-actualisation. At times, they would also purchase personal wants with the benefit money. Occasionally, the benefit money was used for physiological needs like purchasing food and water. 
-"I wouldn't say it was for either, it's mostly to pay off like college. I mean, I had, like food and stuff, it was just, I did use some of the money to like to satisfy like, personal needs, but um, for the most part, it's just all just gonna go to college."
+
+> "I wouldn't say it was for either, it's mostly to pay off like college. I mean, I had, like food and stuff, it was just, I did use some of the money to like to satisfy like, personal needs, but um, for the most part, it's just all just gonna go to college."
 
 *Increase in universal accessibility*
 
 An ideal governmental assistance website includes accessibility for everyone--this means its easy to use as well as easy to access. 
-"It's accessible for like, all types of people, whether they're, they have internet or like other types of resources, and then making it easy to understand or like having a video that helps you navigate it so that everyone can do it."
+
+> "It's accessible for like, all types of people, whether they're, they have internet or like other types of resources, and then making it easy to understand or like having a video that helps you navigate it so that everyone can do it."
+
+*Awareness of government program*
+
+The user would have been much less likely if it weren't for his father telling him about the benefit assistance. He also was originally hesitant as he didn't think he would qualify.
+
+> "I hadn't known about it. I just didn't think that I was eligible since I had like, left my job technically from college. But um, my dad was just like, you don't lose anything by applying like, okay, yeah, that makes sense when I applied and it worked out. So I don't think I would have actually applied if it wasn't for my dad". 
 
 ### Reflection
