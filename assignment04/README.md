@@ -19,6 +19,7 @@
 #### Alondra's Empathy Map
 ![Empathy Map 2](2.png)
 ### User Scenarios and Journey Maps 
-
 #### Albert's Scenario
+* Albert is still an undergraduate student studying Quantatitive Economics at the University of California, Irvine. He's aiming to graduate one year early, which means he's now very busy with classes, clubs, and organizations. Despite that, he still values taking care of his body by giving it the proper nutrients as well as working out to keep himself healthy and fit. Considering that he doesn't have that much time, he's been wanting to expand his cooking expertise by learning new recipes and techniques from different cultures. He only has about fourty-five minutes to spare in looking for a new, yummy, protein-rich meal, preparing it, eating it, and cleaning up. 
+* 
 #### Alondra's Scenario
