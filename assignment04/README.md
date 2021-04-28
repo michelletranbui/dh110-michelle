@@ -2,9 +2,13 @@
 ## Digital Humanities 110 - Michelle Tran Bui 
 
 ### The Purpose of UX Storytelling
+> UX Storytelling is important for the purpose of understanding what the user needs, accomodating their motivations and desires, and to make their experience as easy, memorable, and satisfactory as possible. For my project, UX storytelling is imperative so I can modify and adjust a Cooking Website to cater to a wide variety of people--from students, to full-time workers, and more. By imagining different populations of users, I can diversify the features, effectiveness, and utility of the website. 
 
 ### Design Features
-
+##### Cultural Recipes 
+>
+##### Short, Entertaining Videos
+>
 ### Personas & Empathy Map 
 
 #### Persona 1: Albert Evans
