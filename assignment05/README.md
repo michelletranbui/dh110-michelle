@@ -12,7 +12,7 @@
 
 ### Wireframes and Wireflows
 Click [here](https://www.figma.com/file/W6XW8iPkdqQONopaFiHZab/?node-id=0%3A1) to access the wireframes and [here](https://www.figma.com/file/W6XW8iPkdqQONopaFiHZab/?node-id=2%3A3) to access the wireflows. To see wireflow, click on Prototype page.
-[Here](!lo fi.pdf) is the PDF for the wireframes.
+[Here](lo fi.pdf) is the PDF for the wireframes.
 #### Prototype Testing
 ##### Version 1
 ##### Version 2
