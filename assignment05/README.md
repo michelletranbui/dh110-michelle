@@ -22,8 +22,11 @@ Click [here](https://www.figma.com/file/W6XW8iPkdqQONopaFiHZab/?node-id=0%3A1) t
 **Task 1: The Favorites Bookmark**
 > The user noted that the Favorites Bookmark is useful and something they would use in the feature. They said that it's not difficult to find and follows natural logic to find, and explained that their difficulty in finding it was just not looking at the website properly. Based off of their usage, I don't think there is much to modify to improve the feature. 
 **Task 2: Recipe Time Tool**
->
+> When testing out the second feature, the Recipe Time Tool, the participated said how the scroll bar is inefficient and confusing when looking for recipes that fit a specific time. He recommended two different options: either a 'type bar' where the user can input the maximum amount of time they have for a certain recipe, or a 'select all' type of function where there a different checkboxes for different amounts of time that the user can select. The user did say this feature would be useful for the cooking website, but thinks there can be better implementation for the purpose of the feature. 
 **Task 3: Recommendation Tool**
->
+> For the final task, the user also mentioned the same type of perspective as he did for the second feature. He believes that instead of a scroll bar for the 'Recommendation Tool', that having 'stars' that you can click up to would be much easier to use for this type of purpose. Another comment was that when reaching the landing page for however many stars you selected up to, he commented that the "Rated" filter is unnecessary if the user is already inputting how many stars they want in regards to recommendation. 
 
+The user successfully completed all components of the three tasks outlined in the low-fidelity prototype test. 
 ### Summary
+
+
