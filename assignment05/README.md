@@ -11,7 +11,8 @@
 **Purpose:** The purpose of creating asnd testing this low-fidelity prototype is to see whether the features being introduced are implemented properly, are useful to the audience, and if there are any issues with them. By having participants use the features and see any difficulties or advantages that they experience, I can further the advancement of these features by better modifying them. 
 
 ### Wireframes and Wireflows
-Click [here](https://www.figma.com/file/W6XW8iPkdqQONopaFiHZab/?node-id=0%3A1) to access the wireframes and [here](https://www.figma.com/file/W6XW8iPkdqQONopaFiHZab/?node-id=2%3A3) to access the wireflows. 
+Click [here](https://www.figma.com/file/W6XW8iPkdqQONopaFiHZab/?node-id=0%3A1) to access the wireframes and [here](https://www.figma.com/file/W6XW8iPkdqQONopaFiHZab/?node-id=2%3A3) to access the wireflows. To see wireflow, click on Prototype page.
+
 #### Prototype Testing
 ##### Version 1
 ##### Version 2
