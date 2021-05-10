@@ -28,16 +28,13 @@ The tasks that will be demonstrated will be the incorporation of three features:
 
 ### Impression Test
 
-#### Summary
-
 ### Accessibility Check
 
 ### Design System 
 
-#### Summary
+>**Decision Making Process:**
 
-#### Decision Making Process
-
+**STOP HERE, BELOW IS NEXT WEEK**
 ### Interactive Prototype
 
 ### Wireflow
