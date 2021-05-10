@@ -11,17 +11,11 @@ The purpose of the high-fidelity prototype is to see whether or not my design of
 #### Tasks
 The tasks that will be demonstrated will be the incorporation of three features: 
 
-##### Favorites Bookmark
+> **Favorites Bookmark:** The Favorites Bookmark gives the user the ability to save recipes they want to use in the future, and users can access all their favorited recipes in a specific tab.
 
-The Favorites Bookmark gives the user the ability to save recipes they want to use in the future, and users can access all their favorited recipes in a specific tab.
+> **Recipe Time Tool:** The Recipe Time tool finds recipes that is within the time frame you need it to be, allowing the user to personalize their needs and find what they need faster. 
 
-##### Recipe Time Tool 
-
-The Recipe Time tool finds recipes that is within the time frame you need it to be, allowing the user to personalize their needs and find what they need faster. 
-
-##### Recommendation Tool
-
-The Recommendation tool compiles user ratings and reviews on the recipe and recommends which recipes are the most popular with the highest ratings.
+> **Recommendation Tool:** The Recommendation tool compiles user ratings and reviews on the recipe and recommends which recipes are the most popular with the highest ratings.
 
 ### Screen Design
 
