@@ -15,13 +15,16 @@ The tasks that will be demonstrated will be the incorporation of three features:
 
 > **Recipe Time Tool:** The Recipe Time tool finds recipes that is within the time frame you need it to be, allowing the user to personalize their needs and find what they need faster. 
 
-> **Recommendation Tool:** The Recommendation tool compiles user ratings and reviews on the recipe and recommends which recipes are the most popular with the highest ratings.
-
+> **Recommendation Tool:** The Recommendation tool features a multitude of categories like the genre/ethnicity/culture of the food as well as what category of food you are looking to make (ie. food for maintaining weight, bulking food, cutting food, comfort food, energy-rich food).
 ### Screen Design
 
 #### Screen Templates
 
+
+
 #### Design Variations
+
+
 
 ### Impression Test
 
