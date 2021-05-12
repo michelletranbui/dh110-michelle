@@ -32,6 +32,10 @@ The tasks that will be demonstrated will be the incorporation of three features:
 
 ### Accessibility Check
 
+![Light Contrast](lightcontrast.png)
+
+![Dark Contrast](darkcontrast.png)
+
 ### Design System 
 
 >**Decision Making Process:**
