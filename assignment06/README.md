@@ -18,9 +18,10 @@ The tasks that will be demonstrated will be the incorporation of three features:
 > **Recommendation Tool:** The Recommendation tool features a multitude of categories like the genre/ethnicity/culture of the food as well as what category of food you are looking to make (ie. food for maintaining weight, bulking food, cutting food, comfort food, energy-rich food).
 ### Screen Design
 
-#### Screen Templates
+#### Screens
 
-
+![Screen Light](screen light.png)
+![Screen Dark](screen dark.png)
 
 #### Design Variations
 
