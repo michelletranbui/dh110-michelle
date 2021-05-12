@@ -20,9 +20,9 @@ The tasks that will be demonstrated will be the incorporation of three features:
 
 #### Screens
 
-![Screen Light](screen light.png)
+![Screen Light](screenlight.png)
 
-![Screen Dark](screen dark.png)
+![Screen Dark](screendark.png)
 
 #### Design Variations
 
