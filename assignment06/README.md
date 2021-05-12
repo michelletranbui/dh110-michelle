@@ -24,7 +24,7 @@ The tasks that will be demonstrated will be the incorporation of three features:
 
 #### Design Variations
 
-
+![Variations](variations.png)
 
 ### Impression Test
 
