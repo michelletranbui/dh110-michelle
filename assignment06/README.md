@@ -38,6 +38,10 @@ The tasks that will be demonstrated will be the incorporation of three features:
 
 ### Design System 
 
+![Light Colors](lightcolors.png)
+
+![Dark Colors](darkcolors.png)
+
 >**Decision Making Process:**
 
 **STOP HERE, BELOW IS NEXT WEEK**
