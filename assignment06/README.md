@@ -40,7 +40,7 @@ The tasks that will be demonstrated will be the incorporation of three features:
 
 ![Light Colors](lightcolors.png)
 
-![Dark Colors](darkcolors.png)
+![Dark Colors](darkcolor.png)
 
 >**Decision Making Process:**
 
