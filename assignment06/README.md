@@ -44,16 +44,3 @@ To ensure that the mobile application is accessible, I conducted a WCAG color-pa
 
 #### Decision Making Process
 When thinking of the color schemes for my mobile app, I looked at other cooking app and recipe apps for inspiration. Personally, my favorite color schemes happened to have a more minimalist, clean look that looked sleek and simple. As a result, the colors I ended up choosing were a parchment-like color, as well as a dark gray color for the dark mode variant. The final pop of color, which is similar to the color of an apricot, was added because that's the color I think of when I think of food--a bright, vibrant color that we see often in the fruits and vegetables that we eat. For the fonts, I chose a simple sans serif font so the app looks more casual and user-friendly, rather than something that looks overly professional.
-
-**STOP HERE, BELOW IS NEXT WEEK**
-### Interactive Prototype
-
-### Wireflow
-
-### Cognitive Walkthrough
-
-#### Summary
-
-### Reflection
-#### Summary
-#### Future Changes
