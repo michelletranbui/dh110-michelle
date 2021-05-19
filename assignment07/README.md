@@ -46,6 +46,6 @@ In conclusion, I found the cognitive walkthrough process to be, again, very help
 
 #### Future Changes
 
-Considering my participant's input, I've changed the bookmark color to be a light blue to stand out more against the food photo. I also changed the 'Explore' icon, which my participant did note was a minor fix. Generally, my user seemed to be happy with the user experience and design of the website, and also enjoys the flow. Here are the photos of the small implementations and changes. 
+Considering my participant's input, I've changed the bookmark color to be a light blue to stand out more against the food photo. I also changed the 'Explore' icon, which my participant did note was a minor fix. Generally, my user seemed to be happy with the user experience and design of the website, and also enjoys the flow. Here are the photos of the small implementations and changes. I followed my user's suggestions because I agree with their reasoning, which they explained in the cognitive walkthrough video. 
 
 ![Changes](changes.png)
