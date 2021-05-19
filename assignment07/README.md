@@ -23,6 +23,8 @@ The tasks that will be demonstrated will be the incorporation of three features:
 
 ### Cognitive Walkthrough
 
+[Here] is the link for the video of the cognitive walkthrough. 
+
 #### Summary
 
 ### Reflection
