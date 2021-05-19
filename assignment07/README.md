@@ -15,11 +15,11 @@ The tasks that will be demonstrated will be the incorporation of three features:
 
 ### Interactive Prototype
 
-[Here](https://www.figma.com/proto/eJeO4e35IBf7p9BptgnNIp/activity-6?node-id=22%3A206&scaling=min-zoom&page-id=22%3A206)'s the link to the prototype. 
+[Here](https://www.figma.com/proto/eJeO4e35IBf7p9BptgnNIp/activity-6?node-id=22%3A207&scaling=min-zoom&page-id=22%3A206)'s the link to the prototype. 
 
 ### Wireflow
 
-![Wireflow](wireflow.png)
+![Wireflow](flow.png)
 
 ### Cognitive Walkthrough
 
