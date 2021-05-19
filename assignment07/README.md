@@ -15,7 +15,11 @@ The tasks that will be demonstrated will be the incorporation of three features:
 
 ### Impression Testing
 
-[Here](https://www.figma.com/file/eJeO4e35IBf7p9BptgnNIp/activity-6?node-id=0%3A1) is the link for the impression testing. Unfortunately, my classmates didn't comment on my wireframe so instead I asked friends to answer the questions and added their responses as comments. 
+[Here](https://www.figma.com/file/eJeO4e35IBf7p9BptgnNIp/activity-6?node-id=0%3A1) is the link for the impression testing. Unfortunately, my classmates didn't comment on my wireframe so instead I asked friends to answer the questions and added their responses as comments. Below are some of the comments that my peers made. 
+
+![Alondra](alondra.png)
+
+I found her input to be helpful! Her suggestion to add the amount of calories was a really good idea, which made me also think about adding the macronutrient information of the recipe at the top as well. That way, users can quickly see the amount in grams of protein, carbohydrates, and fats that they're consuming. 
 
 ### Interactive Prototype
 
