@@ -29,8 +29,8 @@ The tasks that will be demonstrated will be the incorporation of three features:
 
 [Here](https://www.youtube.com/watch?v=DAMWJPSQedo&ab_channel=michelletranbui) is the link for the video of the cognitive walkthrough. 
 
-#### Summary
-### Reflection
+### Summary
+#### Reflection
 
 For the cognitive walkthrough interview, I asked my participant to attempt to complete three tasks and observed their method of thinking/processing as they navigated through the app. Two out of the three tasks were completed quickly and easily, according to my participant. However, for the second task, there was an issue in my user's navigation to complete my task. I realized that this was in part due to the way the pages were prototyped, which made it difficult for my participant to see which objects in the prototype were clickable and which ones weren't. Furthermore, I realized that my wording of said task was a little confusing, which led to my participant wandering aimlessly around the app hoping to accomplish what I asked them to do. For future reference, I'll make sure to have the objects that can be clicked on closer to the top of the page rather down at the bottom where they could easily be missed.
 
