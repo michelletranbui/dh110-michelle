@@ -13,6 +13,10 @@ The tasks that will be demonstrated will be the incorporation of three features:
 
 > Recommendation Tool: The Recommendation tool features a multitude of categories like the genre/ethnicity/culture of the food as well as what category of food you are looking to make (ie. food for maintaining weight, bulking food, cutting food, comfort food, energy-rich food).
 
+### Impression Testing
+
+[Here](https://www.figma.com/file/eJeO4e35IBf7p9BptgnNIp/activity-6?node-id=0%3A1) is the link for the impression testing. Unfortunately, my classmates didn't comment on my wireframe so instead I asked friends to answer the questions and added their responses as comments. 
+
 ### Interactive Prototype
 
 [Here](https://www.figma.com/proto/eJeO4e35IBf7p9BptgnNIp/activity-6?node-id=22%3A207&scaling=min-zoom&page-id=22%3A206)'s the link to the prototype. 
