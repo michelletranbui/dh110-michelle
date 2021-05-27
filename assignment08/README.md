@@ -48,6 +48,8 @@ More information on the lo-fi prototype can be accessed [here](https://github.co
 
 The purpose of the high-fidelity prototype is to see whether or not my design of 'Slim Palate' is cognitively functional, if the impression on users is positive or negative, and what further user feedback can be discovered to adjust and improve the prototype. The prototyping also serves to discover any mistakes in the design and to fix them immediately to ensure that the user experience is simple and seamless.
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FeJeO4e35IBf7p9BptgnNIp%2Factivity-6%3Fnode-id%3D13%253A11%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+
 More information on the hi-fi prototype can be accessed [here](https://github.com/michelletranbui/dh110-michelle/tree/main/assignment06).
 
 ### Evaluation and Revision 
