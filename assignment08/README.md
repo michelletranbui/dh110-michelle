@@ -8,6 +8,8 @@ One of the trendiest chefs in social media, Joshua Weissman is popular on YouTub
 
 This project is focused on creating a user-friendly cooking website that has a plethora of recipes that are easy to access, find, and use. The website helps specific audiences ie. powerlifters, athletes, or the elderly to find recipes that suit their dietary needs, and time allotment. 
 
+![Cookbook](cookbook.png)
+
 ### Design Statement
 
 The issue is that there aren't many recipe apps and websites out there that offer personalized features for the user. Many home-chefs and just people in general sometimes have very specific nutritious goals that recipe apps can't accomodate to, and the design of Slim Palate is to address those shortcomings. It's important to resolve that issue to offer higher personalization to increase overall diet and nutritious health. 
@@ -54,5 +56,6 @@ More information on the hi-fi prototype can be accessed [here](https://github.co
 
 ### Evaluation and Revision 
 
+![Changes](changes.png)
 ### Pitch
 ### Conclusion 
