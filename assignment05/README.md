@@ -11,7 +11,9 @@
 **Purpose:** The purpose of creating and testing this low-fidelity prototype is to see whether the features being introduced are implemented properly, are useful to the audience, and if there are any issues with them. By having participants use the features and see any difficulties or advantages that they experience, I can further the advancement of these features by better modifying them. The tasks will specifically ask the user if the features are useful, if there's anything odd about them that can be improved on, and if the user can find out how to use the feature itself. 
 
 ### Wireframes and Wireflows
-Click [here](https://www.figma.com/file/W6XW8iPkdqQONopaFiHZab/?node-id=0%3A1) to access the wireframes and [here](https://www.figma.com/file/W6XW8iPkdqQONopaFiHZab/?node-id=2%3A3) to access the wireflows. To see wireflow, click on Prototype page. The wireflow can also be seen through [this](https://youtu.be/KmaYXbZyT3I) screen-recording. 
+Click [here](https://www.figma.com/file/W6XW8iPkdqQONopaFiHZab/?node-id=0%3A1) to access the wireframes and [here](https://www.figma.com/file/W6XW8iPkdqQONopaFiHZab/?node-id=2%3A3) to access the wireflows. To see wireflow, click on Prototype page. The wireflow can also be seen through [this](https://youtu.be/KmaYXbZyT3I) screen-recording and is also shown here. 
+
+![Wireflows](wireflows.png)
 
 [Here](https://drive.google.com/file/d/1MKni5cG6mujFnYqwhNUhqKFmGLNbs31D/view?usp=sharing) is the PDF for the wireframes.
 #### Prototype Testing
