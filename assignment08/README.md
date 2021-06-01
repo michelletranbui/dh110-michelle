@@ -75,8 +75,8 @@ The purpose of the high-fidelity prototype is to see whether or not my design of
 ![Variations](variations.png)
 Here are the three different color variations being tested for the general app color scheme. The three modes are light mode, dark mode, and a color mode/variant. For the final product of the app, I decided to stick with the light and dark modes so users have the ability to toggle between both modes. I discarded the color mode variant as a potential idea because I think the more minimalistic color schemes have a nicer aesthetic for the overall design.
 
-![Light Contrast](light contrast.png)
-![Dark Contrast](dark contrast.png)
+![Light Contrast](light_contrast.png)
+![Dark Contrast](dark_contrast.png)
 To ensure that the mobile application is accessible, I conducted a WCAG color-pair contrast test. Both of the light and dark mode variants with their respective font colors passed the accessibility checks.
 
 ![Flow](flow.png)
