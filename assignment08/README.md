@@ -57,11 +57,27 @@ More information on the personas imagined for Slim Palate can be accessed [here]
 
 The purpose of creating and testing this low-fidelity prototype is to see whether the features being introduced are implemented properly, are useful to the audience, and if there are any issues with them. By having participants use the features and see any difficulties or advantages that they experience, I can further the advancement of these features by better modifying them. The tasks will specifically ask the user if the features are useful, if there's anything odd about them that can be improved on, and if the user can find out how to use the feature itself.
 
+These three features will be introduced to the website to improve user experience and ease of access.
+
+> **Recipe Time Tool**: Finds recipes that is within the time frame you need it to be. 
+
+> **Favorites Bookmark**: Gives the user the ability to save recipes they want to use in the future, and users can access all their favorited recipes in a specific tab.
+
+> **Recommendation Tool**: Compiles user ratings and reviews on the recipe and recommends which recipes are the most popular with the highest ratings.
+
+
 More information on the lo-fi prototype can be accessed [here](https://github.com/michelletranbui/dh110-michelle/tree/main/assignment05).
 
 ### High-Fidelity Prototype
 
 The purpose of the high-fidelity prototype is to see whether or not my design of 'Slim Palate' is cognitively functional, if the impression on users is positive or negative, and what further user feedback can be discovered to adjust and improve the prototype. The prototyping also serves to discover any mistakes in the design and to fix them immediately to ensure that the user experience is simple and seamless.
+
+![Variations](variations.png)
+Here are the three different color variations being tested for the general app color scheme. The three modes are light mode, dark mode, and a color mode/variant. For the final product of the app, I decided to stick with the light and dark modes so users have the ability to toggle between both modes. I discarded the color mode variant as a potential idea because I think the more minimalistic color schemes have a nicer aesthetic for the overall design.
+
+![Light Contrast](lightcontrast.png)
+![Dark Contrast](darkcontrast.png)
+To ensure that the mobile application is accessible, I conducted a WCAG color-pair contrast test. Both of the light and dark mode variants with their respective font colors passed the accessibility checks.
 
 ![Flow](flow.png)
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FeJeO4e35IBf7p9BptgnNIp%2Factivity-6%3Fnode-id%3D13%253A11%26scaling%3Dmin-zoom" allowfullscreen></iframe>
