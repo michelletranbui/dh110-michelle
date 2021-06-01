@@ -12,17 +12,22 @@ This project is focused on creating a user-friendly cooking website that has a p
 
 ### Design Statement
 
-The issue is that there aren't many recipe apps and websites out there that offer personalized features for the user. Many home-chefs and just people in general sometimes have very specific nutritious goals that recipe apps can't accomodate to, and the design of Slim Palate is to address those shortcomings. It's important to resolve that issue to offer higher personalization to increase overall diet and nutritious health. 
+The issue is that there aren't many recipe apps and websites out there that offer personalized features for the user. Many home-chefs and just people in general sometimes have very specific nutritious goals that recipe apps can't accomodate to, and the design of Slim Palate is to address those shortcomings. It's important to resolve that issue to offer higher personalization to increase overall diet and nutritious health. To accomplish these goals, three features were implemented to increase user personalization in the mobile app:
 
+> **Recipe Time Tool**: Finds recipes that is within the time frame you need it to be. 
+
+> **Favorites Bookmark**: Gives the user the ability to save recipes they want to use in the future, and users can access all their favorited recipes in a specific tab.
+> 
+> **Recommendation Tool**: Compiles user ratings and reviews on the recipe and recommends which recipes are the most popular with the highest ratings.
+> 
 ### Competitor Analysis 
 #### Heuristics Evaluation 
 
 Considering the age of his website, the heuristic evaluation of Joshua Weissman's website 'Slim Palate' yields a multitude of usability issues. One of the most outstanding issues is the flexibility and efficiency to use--the website lacks typical cooking website features like "jump to recipe" or "save recipe", making it more difficult for beginner chefs to navigate and organize recipes. Second, there is little room for user control and freedom. Users on his website can't easily navigate to the previous page they were on, and the only real exit button is navigating back to the beginning. Third, there's not a good match between the system and the real world. The design of the website is very stagnant and unresponsive to user interaction, while the layout is difficult to follow. Joshua Weissman's recipes are also oddly organized and result in user interactions that aren't ideal. A fourth concern is the unorganized and unpleasing aesthetic of the website. The cluttered design is messy and hard-to-navigate, and also sports very boring colors.
+
 Jack Nielson's 10 Usability Heuristics for UI Design can be read about [here](https://www.nngroup.com/articles/ten-usability-heuristics/).
 
 #### Usability Testing
-
-
 
 A usability test was conducted to understand the website's design and it's resulting impact on the user's ability to complete frequent and common tasks. The test will observe the overall user satisfaction and efficiency of Slim Palate. The first task will ask the user to search for a simple steak recipe, to see how quickly and efficiently users can navigate the website to find what to took. This task questions the website's user control and freedom as users attempt to search for something that they need. The second task will test the website's help and documentation for users who have any questions. The user will be tasked with finding out answers to general questions, and whether or not they can contact someone about the website. The final task will be to start from the home page and look for a new dessert to test the match between the system and the real world, considering that the website's functionality is somewhat cumbersome. In conclusion, the purpose of the usability test is to pinpoint the user experience and overall improve the usability and functionality for the user.
 
