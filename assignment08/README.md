@@ -51,7 +51,7 @@ Two personas and journey maps were developed to visualize the possible user popu
 ![Alondra persona](persona_2.png)
 ![Alondra journey](journey2.png)
 
-More information on the personas imagined for Slim palate can be accessed [here](https://github.com/michelletranbui/dh110-michelle/tree/main/assignment04).
+More information on the personas imagined for Slim Palate can be accessed [here](https://github.com/michelletranbui/dh110-michelle/tree/main/assignment04).
 
 ### Low-Fidelity Prototype
 
