@@ -17,11 +17,12 @@ The issue is that there aren't many recipe apps and websites out there that offe
 ### Competitor Analysis 
 #### Heuristics Evaluation 
 
+Considering the age of his website, the heuristic evaluation of Joshua Weissman's website 'Slim Palate' yields a multitude of usability issues. One of the most outstanding issues is the flexibility and efficiency to use--the website lacks typical cooking website features like "jump to recipe" or "save recipe", making it more difficult for beginner chefs to navigate and organize recipes. Second, there is little room for user control and freedom. Users on his website can't easily navigate to the previous page they were on, and the only real exit button is navigating back to the beginning. Third, there's not a good match between the system and the real world. The design of the website is very stagnant and unresponsive to user interaction, while the layout is difficult to follow. Joshua Weissman's recipes are also oddly organized and result in user interactions that aren't ideal. A fourth concern is the unorganized and unpleasing aesthetic of the website. The cluttered design is messy and hard-to-navigate, and also sports very boring colors.
 Jack Nielson's 10 Usability Heuristics for UI Design can be read about [here](https://www.nngroup.com/articles/ten-usability-heuristics/).
 
 #### Usability Testing
 
-Considering the age of his website, the heuristic evaluation of Joshua Weissman's website 'Slim Palate' yields a multitutde of usability issues. One of the most outstanding issues is the flexibility and efficiency to use--the website lacks typical cooking website features like "jump to recipe" or "save recipe", making it more difficult for beginner chefs to navigate and organize recipes. Second, there is little room for user control and freedom. Users on his website can't easily navigate to the previous page they were on, and the only real exit button is navigating back to the beginning. Third, there's not a good match between the system and the real world. The design of the website is very stagnant and unresponsive to user interaction, while the layout is difficult to follow. Joshua Weissman's recipes are also oddly organized and result in user interactions that aren't ideal. A fourt concern is the unorganized and unpleasing aesthetic of the website. The cluttered design is messy and hard-to-navigate, and also sports very boring colors.
+
 
 A usability test was conducted to understand the website's design and it's resulting impact on the user's ability to complete frequent and common tasks. The test will observe the overall user satisfaction and efficiency of Slim Palate. The first task will ask the user to search for a simple steak recipe, to see how quickly and efficiently users can navigate the website to find what to took. This task questions the website's user control and freedom as users attempt to search for something that they need. The second task will test the website's help and documentation for users who have any questions. The user will be tasked with finding out answers to general questions, and whether or not they can contact someone about the website. The final task will be to start from the home page and look for a new dessert to test the match between the system and the real world, considering that the website's functionality is somewhat cumbersome. In conclusion, the purpose of the usability test is to pinpoint the user experience and overall improve the usability and functionality for the user.
 
@@ -37,6 +38,13 @@ More information on the contextual inquiry can be accessed [here](https://github
 ### UX Storytelling 
 
 UX Storytelling is important for the purpose of understanding what the user needs, accomodating their motivations and desires, and to make their experience as easy, memorable, and satisfactory as possible. For my project, UX storytelling is imperative so I can modify and adjust Slim Palate to cater to a wide variety of people--from students, to full-time workers, and more. By imagining different populations of users, I can diversify the features, effectiveness, and utility of the website.
+
+Two personas and journey maps were developed to visualize the possible user population for Slim Palate. 
+
+![Albert persona](persona_1.png)
+![Al journey](journey1.png)
+![Alondra persona](persona_2.png)
+![Alondra journey](journey2.png)
 
 More information on the personas imagined for Slim palate can be accessed [here](https://github.com/michelletranbui/dh110-michelle/tree/main/assignment04).
 
