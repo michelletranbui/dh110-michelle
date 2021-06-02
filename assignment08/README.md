@@ -17,9 +17,9 @@ The issue is that there aren't many recipe apps and websites out there that offe
 > **Recipe Time Tool**: Finds recipes that is within the time frame you need it to be. 
 
 > **Favorites Bookmark**: Gives the user the ability to save recipes they want to use in the future, and users can access all their favorited recipes in a specific tab.
-> 
+
 > **Recommendation Tool**: Compiles user ratings and reviews on the recipe and recommends which recipes are the most popular with the highest ratings.
-> 
+
 ### Competitor Analysis 
 #### Heuristics Evaluation 
 
