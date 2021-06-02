@@ -99,7 +99,7 @@ More information on the impression testing and cognitive walkthrough can be foun
 
 ### Pitch
 
-[Here](https://youtu.be/b1TWVm-_UGA) is the video pitch. 
+[Here](https://youtu.be/rSe6eCtzwe4) is the video pitch. 
 
 ### Conclusion 
 
