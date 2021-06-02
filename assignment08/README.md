@@ -98,4 +98,6 @@ Considering my participant's input, I've changed the bookmark color to be a ligh
 More information on the impression testing and cognitive walkthrough can be found [here](https://github.com/michelletranbui/dh110-michelle/tree/main/assignment07).
 
 ### Pitch
+
+[Here](https://youtu.be/b1TWVm-_UGA) is the video pitch. 
 ### Conclusion 
