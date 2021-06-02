@@ -86,6 +86,16 @@ More information on the hi-fi prototype can be accessed [here](https://github.co
 
 ### Evaluation and Revision 
 
+To evaluate the functionality of my design, I asked a few peers to participate in impression testing and a cognitive walkthrough. For the cognitive walkthrough interview, I asked my participant to attempt to complete three tasks and observed their method of thinking/processing as they navigated through the app. Two out of the three tasks were completed quickly and easily, according to my participant. However, for the second task, there was an issue in my user's navigation to complete my task. I realized that this was in part due to the way the pages were prototyped, which made it difficult for my participant to see which objects in the prototype were clickable and which ones weren't. Furthermore, I realized that my wording of said task was a little confusing, which led to my participant wandering aimlessly around the app hoping to accomplish what I asked them to do. For future reference, I'll make sure to have the objects that can be clicked on closer to the top of the page rather down at the bottom where they could easily be missed.
+
+In conclusion, I found the cognitive walkthrough process to be, again, very helpful. Not only did it help me understand what another person is thinking when first using the prototype, it brings up issues that I myself wouldn't have uncovered. The extra perspective is also extremely helpful in hearing alternative ideas, options, and design decisions.
+
+Considering my participant's input, I've changed the bookmark color to be a light blue to stand out more against the food photo. I also changed the 'Explore' icon, which my participant did note was a minor fix. Generally, my user seemed to be happy with the user experience and design of the website, and also enjoys the flow. Here are the photos of the small implementations and changes. I followed my user's suggestions because I agree with their reasoning, which they explained in the cognitive walkthrough video or in the impression testing.
+
 ![Changes](changes.png)
+![Macro](macro.png)
+
+More information on the impression testing and cognitive walkthrough can be found [here](https://github.com/michelletranbui/dh110-michelle/tree/main/assignment07).
+
 ### Pitch
 ### Conclusion 
