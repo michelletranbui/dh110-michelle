@@ -100,4 +100,9 @@ More information on the impression testing and cognitive walkthrough can be foun
 ### Pitch
 
 [Here](https://youtu.be/b1TWVm-_UGA) is the video pitch. 
+
 ### Conclusion 
+
+Overall, I was happy with my end result of the mobile app design. I was able to generally implement the three features I originally came up with. I learned that understanding true user experience was putting myself into the users shoes and thoughts and imagine the thought process to really be able to create the best experience. Throughout the project, I found how easy it is to make simple errors that could be accidentally overlooked, which lead to cumbersome issues and obstacles for the user browsing through the app/website. I also learned about the various processes that go behind-the-scenes of product design, like the impression testing, cognitive walkthrough, heuristic evaluation, and usability testing. I never knew that there so was much extensive research and testing behind the design of a process, but it now makes so much sense that all this work is put into finding what design is really the most ideal. These hard skills were some of the biggest things I've learned throughout the course. 
+
+The project also taught me different types of design and ideas that I could implement into website and app design. It widened my creative knowledge into what I could possibly create and the different concepts I could follow with an application design, which I extremely appreciate as UI/UX is what I want to pursue as my future career. The overall experience has been priceless as I've been taught a variety of techniques, skills, and methods that I would need as a future UX researcher or UI designer. 
